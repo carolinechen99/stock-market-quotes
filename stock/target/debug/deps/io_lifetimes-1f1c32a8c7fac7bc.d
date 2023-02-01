@@ -1,0 +1,10 @@
+/Users/carolinechen/stock-market-quotes/stock/target/debug/deps/io_lifetimes-1f1c32a8c7fac7bc.rmeta: /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/lib.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/portability.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/traits.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/example_ffi.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/raw.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/views.rs
+
+/Users/carolinechen/stock-market-quotes/stock/target/debug/deps/io_lifetimes-1f1c32a8c7fac7bc.d: /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/lib.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/portability.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/traits.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/example_ffi.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/raw.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/views.rs
+
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/lib.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/portability.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/traits.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/example_ffi.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/raw.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/views.rs:

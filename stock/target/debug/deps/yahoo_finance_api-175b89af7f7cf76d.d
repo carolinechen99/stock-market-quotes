@@ -1,0 +1,9 @@
+/Users/carolinechen/stock-market-quotes/stock/target/debug/deps/yahoo_finance_api-175b89af7f7cf76d.rmeta: /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/yahoo_finance_api-1.3.0/src/lib.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/yahoo_finance_api-1.3.0/src/quotes.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/yahoo_finance_api-1.3.0/src/search_result.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/yahoo_finance_api-1.3.0/src/yahoo_error.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/yahoo_finance_api-1.3.0/src/async_impl.rs
+
+/Users/carolinechen/stock-market-quotes/stock/target/debug/deps/yahoo_finance_api-175b89af7f7cf76d.d: /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/yahoo_finance_api-1.3.0/src/lib.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/yahoo_finance_api-1.3.0/src/quotes.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/yahoo_finance_api-1.3.0/src/search_result.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/yahoo_finance_api-1.3.0/src/yahoo_error.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/yahoo_finance_api-1.3.0/src/async_impl.rs
+
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/yahoo_finance_api-1.3.0/src/lib.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/yahoo_finance_api-1.3.0/src/quotes.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/yahoo_finance_api-1.3.0/src/search_result.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/yahoo_finance_api-1.3.0/src/yahoo_error.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/yahoo_finance_api-1.3.0/src/async_impl.rs:

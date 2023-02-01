@@ -1,0 +1,9 @@
+/Users/carolinechen/stock-market-quotes/stock/target/debug/deps/tokio_tungstenite-e2456bc43d8d98ab.rmeta: /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.11.0/src/lib.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.11.0/src/compat.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.11.0/src/connect.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.11.0/src/handshake.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.11.0/src/stream.rs
+
+/Users/carolinechen/stock-market-quotes/stock/target/debug/deps/tokio_tungstenite-e2456bc43d8d98ab.d: /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.11.0/src/lib.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.11.0/src/compat.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.11.0/src/connect.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.11.0/src/handshake.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.11.0/src/stream.rs
+
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.11.0/src/lib.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.11.0/src/compat.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.11.0/src/connect.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.11.0/src/handshake.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.11.0/src/stream.rs:
