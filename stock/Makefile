@@ -7,7 +7,10 @@ rust-version:
 	clippy-driver --version		#rust linter
 	
 install:
-	#install
+	# Install if needed
+	#@echo "Updating rust toolchain"
+	#rustup update stable
+	#rustup default stable
 
 format:
 	cargo fmt --quiet
