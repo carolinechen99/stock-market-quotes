@@ -5,6 +5,9 @@ rust-version:
 	rustfmt --version			#rust code formatter
 	rustup --version			#rust toolchain manager
 	clippy-driver --version		#rust linter
+	
+install:
+	#install
 
 format-check:
 	cargo fmt --quiet
