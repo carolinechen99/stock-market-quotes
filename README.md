@@ -1,6 +1,8 @@
 # Stock Market Quote
 
-[![Build Status](https://travis-ci.org/kevinxu0027/stock-market-quote.svg?branch=master)](https://travis-ci.org/kevinxu0027/stock-market-quote) 
+//![CI](https://github.com/<username>/<repository>/workflows/CI/badge.svg)
+get badge from github actions using comment above
+![CI](https://github.com/carolinexyc999/stock-market-quotes/workflows/CI/badge.svg)
 
 
 ![img](/img/flowchart1.png)
