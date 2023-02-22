@@ -1,5 +1,5 @@
 # Stock Market Quote
-[![rust](https://github.com/carolinechen99/stock-market-quotes/actions/workflows/rust.yml/badge.svg)](https://github.com/carolinechen99/stock-market-quotes/actions/workflows/rust.yml)
+[![Rust CI/CD](https://github.com/carolinechen99/stock-market-quotes/actions/workflows/rust.yml/badge.svg)](https://github.com/carolinechen99/stock-market-quotes/actions/workflows/rust.yml)
 
 
 ![img](/img/flowchart1.png)
