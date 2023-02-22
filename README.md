@@ -1,4 +1,9 @@
 # Stock Market Quote
+
+// github badge for build status
+[![Build Status](https://travis-ci.org/kevinxu0027/stock-market-quote.svg?branch=master)](https://travis-ci.org/kevinxu0027/stock-market-quote) 
+
+
 ![img](/img/flowchart1.png)
 ## Overview
 This is a simple tool that fetches stock market quotes from the Yahoo! Finance API. It allows you to fetch the latest price of a stock, as well as the price at a specific time in the past. It also includes a simple search feature that allows you to search for a stock by keyword.
